@@ -1,1 +1,1 @@
-Example Ansible playbooks for AWX.
+Example Ansible playbooks for AWX / Semaphore / etc.
